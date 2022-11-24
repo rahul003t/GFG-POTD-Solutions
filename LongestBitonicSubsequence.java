@@ -5,7 +5,7 @@
 Question: Longest Bitonic subsequence.
 Day: 24.11.2022
 Time Complexity : O(N^2)
-Space Complexity : O(1)
+Space Complexity : O(N)
 >>>>  Here the problem is done by the two pointer Approach.
 
 */
